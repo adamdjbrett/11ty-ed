@@ -1,0 +1,5 @@
+# About/contact
+author:
+  name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
