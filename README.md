@@ -1,4 +1,6 @@
 # WORK IN PROGRESS
+dont go here. go to the [11ty.dev](https://11ty.dev) homepage and find a starter there.
+
 # Porting Jekyll Ed to 11ty Ed
 ## CHANGELOG
 - _scss moved to /static/css
